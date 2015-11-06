@@ -1,5 +1,5 @@
 <hello-world>
-  <p>Hello { what }!</p>
+  <h1>Hello { what }!</h1>
   
   this.what = "Riot.js"
   
