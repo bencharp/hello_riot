@@ -1,6 +1,8 @@
 <hello-world>
   <h1>Hello { what }!</h1>
   
-  this.what = "Riot.js"
+  <script>
+    this.what = "Riot.js"
+  </script>
   
 </hello-world>
